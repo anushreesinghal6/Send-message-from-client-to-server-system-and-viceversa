@@ -1,3 +1,7 @@
+SE20UARI178
+ANUSHREE SINGHAL
+
+
 To run the WebSocket-based chat application:
 
 Start the WebSocket server by running python websocket_server.py in one terminal.
